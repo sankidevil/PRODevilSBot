@@ -1,5 +1,5 @@
 {
-    "name": "Romeo-Userbot",
+    "name": "𝐑シ︎𝐃𝐄𝐕𝐈𝐋𝐁𝐎𝐓",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
     "repository": "https://github.com/RRomeo-RJ/Romeo-Userbot",
@@ -28,17 +28,17 @@
         "MONGO_URL": {
             "description": "Fill there an mongo database from mongodb.com",
             "required": true,
-            "value": ""
+            "value": "mongodb+srv://kuldiprathod2003:kuldiprathod2003@cluster0.wxqpikp.mongodb.net/?retryWrites=true&w=majority"
         },
         "SUDO_USERS": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "5368154755"
+            "value": "2059751904"
         },
         "OWNER_ID": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "5368154755"
+            "value": "2059751904"
         },
         "LOG_GROUP": {
             "description": "Fill there your group I'd go to create a group and add make an admin with @MissRose_bot to your group and type /id",
